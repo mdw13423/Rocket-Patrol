@@ -1,4 +1,4 @@
-console.log("Current version of main.js is running");
+//console.log("NEW version of main.js is running");
 
 let config = {
     type: Phaser.CANVAS,
